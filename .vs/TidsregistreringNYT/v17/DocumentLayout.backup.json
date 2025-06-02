@@ -1,0 +1,726 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firse\\Desktop\\Nyt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|c:\\users\\firse\\desktop\\nyt\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\views\\tidsregistrering\\registrering.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\views\\tidsregistrering\\registrering.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\views\\statistik\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\views\\statistik\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\controllers\\statistikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\controllers\\statistikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650A29F-B669-42A6-BFFD-D488E89555E3}|WPFGUI\\WPFGUI.csproj|C:\\Users\\firse\\Desktop\\Nyt\\wpfgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6650A29F-B669-42A6-BFFD-D488E89555E3}|WPFGUI\\WPFGUI.csproj|solutionrelative:wpfgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650A29F-B669-42A6-BFFD-D488E89555E3}|WPFGUI\\WPFGUI.csproj|C:\\Users\\firse\\Desktop\\Nyt\\wpfgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650A29F-B669-42A6-BFFD-D488E89555E3}|WPFGUI\\WPFGUI.csproj|solutionrelative:wpfgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB02EB4-E9AE-432D-9EFA-068B598E0739}|BLL\\BLL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\bll\\sagbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB02EB4-E9AE-432D-9EFA-068B598E0739}|BLL\\BLL.csproj|solutionrelative:bll\\sagbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB02EB4-E9AE-432D-9EFA-068B598E0739}|BLL\\BLL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\bll\\tidsregistreringbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB02EB4-E9AE-432D-9EFA-068B598E0739}|BLL\\BLL.csproj|solutionrelative:bll\\tidsregistreringbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB02EB4-E9AE-432D-9EFA-068B598E0739}|BLL\\BLL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\bll\\afdelingbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB02EB4-E9AE-432D-9EFA-068B598E0739}|BLL\\BLL.csproj|solutionrelative:bll\\afdelingbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB02EB4-E9AE-432D-9EFA-068B598E0739}|BLL\\BLL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\bll\\medarbejderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB02EB4-E9AE-432D-9EFA-068B598E0739}|BLL\\BLL.csproj|solutionrelative:bll\\medarbejderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0BABEA-83AE-4282-A133-78C328209D4F}|DTO\\DTO.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dto\\models\\tidsregistreringdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0BABEA-83AE-4282-A133-78C328209D4F}|DTO\\DTO.csproj|solutionrelative:dto\\models\\tidsregistreringdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0BABEA-83AE-4282-A133-78C328209D4F}|DTO\\DTO.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dto\\models\\sagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0BABEA-83AE-4282-A133-78C328209D4F}|DTO\\DTO.csproj|solutionrelative:dto\\models\\sagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0BABEA-83AE-4282-A133-78C328209D4F}|DTO\\DTO.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dto\\models\\medarbejderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0BABEA-83AE-4282-A133-78C328209D4F}|DTO\\DTO.csproj|solutionrelative:dto\\models\\medarbejderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0BABEA-83AE-4282-A133-78C328209D4F}|DTO\\DTO.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dto\\models\\afdelingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0BABEA-83AE-4282-A133-78C328209D4F}|DTO\\DTO.csproj|solutionrelative:dto\\models\\afdelingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\controllers\\medarbejdercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\controllers\\medarbejdercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\controllers\\tidsregistreringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\controllers\\tidsregistreringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\models\\afdelingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\models\\afdelingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\models\\medarbejderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\models\\medarbejderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\models\\tidsregistreringviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\models\\tidsregistreringviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\views\\medarbejder\\v\u00E6lgmedarbejder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\views\\medarbejder\\v\u00E6lgmedarbejder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\repository\\tidsregistreringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\tidsregistreringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\mapper\\tidsregistreringmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\mapper\\tidsregistreringmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650A29F-B669-42A6-BFFD-D488E89555E3}|WPFGUI\\WPFGUI.csproj|C:\\Users\\firse\\Desktop\\Nyt\\wpfgui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650A29F-B669-42A6-BFFD-D488E89555E3}|WPFGUI\\WPFGUI.csproj|solutionrelative:wpfgui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|C:\\Users\\firse\\Desktop\\Nyt\\webapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{379EE24C-A21A-48BA-9889-FFFF8D3EAE7A}|WEBApp\\WEBApp.csproj|solutionrelative:webapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650A29F-B669-42A6-BFFD-D488E89555E3}|WPFGUI\\WPFGUI.csproj|C:\\Users\\firse\\Desktop\\Nyt\\wpfgui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6650A29F-B669-42A6-BFFD-D488E89555E3}|WPFGUI\\WPFGUI.csproj|solutionrelative:wpfgui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\models\\tidsregistreringdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\tidsregistreringdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\models\\medarbejderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\medarbejderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\repository\\afdelingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\afdelingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\models\\sagdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\sagdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\models\\afdelingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\afdelingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\repository\\sagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\sagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\repository\\medarbejderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\medarbejderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\mapper\\sagmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\mapper\\sagmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\mapper\\medarbejdermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\mapper\\medarbejdermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\mapper\\afdelingmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\mapper\\afdelingmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|C:\\Users\\firse\\Desktop\\Nyt\\dal\\context\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EC7320-7C70-4B5D-A3BE-F636EFA323F0}|DAL\\DAL.csproj|solutionrelative:dal\\context\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\firse\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\firse\\source\\repos\\Tidsregistrering\\DAL\\Repository\\AfdelingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TidsregistreringBLL.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\BLL\\TidsregistreringBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TidsregistreringBLL.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\BLL\\TidsregistreringBLL.cs",
+              "RelativeToolTip": "BLL\\TidsregistreringBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:14:54.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WPFGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WPFGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFGUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAIwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:54:55.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WPFGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WPFGUI\\MainWindow.xaml",
+              "RelativeToolTip": "WPFGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T09:53:23.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Statistik\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBApp\\Views\\Statistik\\Index.cshtml",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Statistik\\Index.cshtml",
+              "RelativeToolTip": "WEBApp\\Views\\Statistik\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T16:34:59.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEBApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WEBApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T17:52:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registrering.cshtml",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Tidsregistrering\\Registrering.cshtml",
+              "RelativeDocumentMoniker": "WEBApp\\Views\\Tidsregistrering\\Registrering.cshtml",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Tidsregistrering\\Registrering.cshtml",
+              "RelativeToolTip": "WEBApp\\Views\\Tidsregistrering\\Registrering.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T06:53:56.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatistikController.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Controllers\\StatistikController.cs",
+              "RelativeDocumentMoniker": "WEBApp\\Controllers\\StatistikController.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Controllers\\StatistikController.cs",
+              "RelativeToolTip": "WEBApp\\Controllers\\StatistikController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:33:37.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEBApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "WEBApp\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T14:33:10.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SagBLL.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\BLL\\SagBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\SagBLL.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\BLL\\SagBLL.cs",
+              "RelativeToolTip": "BLL\\SagBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:23:13.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedarbejderBLL.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\BLL\\MedarbejderBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\MedarbejderBLL.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\BLL\\MedarbejderBLL.cs",
+              "RelativeToolTip": "BLL\\MedarbejderBLL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:47:46.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AfdelingBLL.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\BLL\\AfdelingBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\AfdelingBLL.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\BLL\\AfdelingBLL.cs",
+              "RelativeToolTip": "BLL\\AfdelingBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:47:40.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TidsregistreringDTO.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DTO\\Models\\TidsregistreringDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Models\\TidsregistreringDTO.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DTO\\Models\\TidsregistreringDTO.cs",
+              "RelativeToolTip": "DTO\\Models\\TidsregistreringDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:18:45.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SagDTO.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DTO\\Models\\SagDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Models\\SagDTO.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DTO\\Models\\SagDTO.cs",
+              "RelativeToolTip": "DTO\\Models\\SagDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:47:01.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedarbejderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DTO\\Models\\MedarbejderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Models\\MedarbejderDTO.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DTO\\Models\\MedarbejderDTO.cs",
+              "RelativeToolTip": "DTO\\Models\\MedarbejderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:28.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TidsregistreringRepository.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Repository\\TidsregistreringRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\TidsregistreringRepository.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Repository\\TidsregistreringRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\TidsregistreringRepository.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAhwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:07:33.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TidsregistreringMapper.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Mapper\\TidsregistreringMapper.cs",
+              "RelativeDocumentMoniker": "DAL\\Mapper\\TidsregistreringMapper.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Mapper\\TidsregistreringMapper.cs",
+              "RelativeToolTip": "DAL\\Mapper\\TidsregistreringMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:41:27.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AfdelingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DTO\\Models\\AfdelingDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Models\\AfdelingDTO.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DTO\\Models\\AfdelingDTO.cs",
+              "RelativeToolTip": "DTO\\Models\\AfdelingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEBApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEBApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:32:17.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MedarbejderController.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Controllers\\MedarbejderController.cs",
+              "RelativeDocumentMoniker": "WEBApp\\Controllers\\MedarbejderController.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Controllers\\MedarbejderController.cs",
+              "RelativeToolTip": "WEBApp\\Controllers\\MedarbejderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:15:23.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TidsregistreringController.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Controllers\\TidsregistreringController.cs",
+              "RelativeDocumentMoniker": "WEBApp\\Controllers\\TidsregistreringController.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Controllers\\TidsregistreringController.cs",
+              "RelativeToolTip": "WEBApp\\Controllers\\TidsregistreringController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:41:33.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AfdelingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Models\\AfdelingViewModel.cs",
+              "RelativeDocumentMoniker": "WEBApp\\Models\\AfdelingViewModel.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Models\\AfdelingViewModel.cs",
+              "RelativeToolTip": "WEBApp\\Models\\AfdelingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:41:23.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MedarbejderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Models\\MedarbejderViewModel.cs",
+              "RelativeDocumentMoniker": "WEBApp\\Models\\MedarbejderViewModel.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Models\\MedarbejderViewModel.cs",
+              "RelativeToolTip": "WEBApp\\Models\\MedarbejderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:45:00.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TidsRegistreringViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Models\\TidsRegistreringViewModel.cs",
+              "RelativeDocumentMoniker": "WEBApp\\Models\\TidsRegistreringViewModel.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Models\\TidsRegistreringViewModel.cs",
+              "RelativeToolTip": "WEBApp\\Models\\TidsRegistreringViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:39:47.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "V\u00E6lgMedarbejder.cshtml",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Medarbejder\\V\u00E6lgMedarbejder.cshtml",
+              "RelativeDocumentMoniker": "WEBApp\\Views\\Medarbejder\\V\u00E6lgMedarbejder.cshtml",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Views\\Medarbejder\\V\u00E6lgMedarbejder.cshtml",
+              "RelativeToolTip": "WEBApp\\Views\\Medarbejder\\V\u00E6lgMedarbejder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T01:18:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WPFGUI\\App.config",
+              "RelativeDocumentMoniker": "WPFGUI\\App.config",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WPFGUI\\App.config",
+              "RelativeToolTip": "WPFGUI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T09:56:53.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WPFGUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFGUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WPFGUI\\App.xaml.cs",
+              "RelativeToolTip": "WPFGUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:37.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Web.config",
+              "RelativeDocumentMoniker": "WEBApp\\Web.config",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\WEBApp\\Web.config",
+              "RelativeToolTip": "WEBApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-23T10:40:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T10:48:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MedarbejderDAL.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Models\\MedarbejderDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\MedarbejderDAL.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Models\\MedarbejderDAL.cs",
+              "RelativeToolTip": "DAL\\Models\\MedarbejderDAL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:09.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TidsregistreringDAL.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Models\\TidsregistreringDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\TidsregistreringDAL.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Models\\TidsregistreringDAL.cs",
+              "RelativeToolTip": "DAL\\Models\\TidsregistreringDAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:04.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AfdelingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Repository\\AfdelingRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\AfdelingRepository.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Repository\\AfdelingRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\AfdelingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:13.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SagDal.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Models\\SagDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SagDal.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Models\\SagDal.cs",
+              "RelativeToolTip": "DAL\\Models\\SagDal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:51:50.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AfdelingDAL.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Models\\AfdelingDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AfdelingDAL.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Models\\AfdelingDAL.cs",
+              "RelativeToolTip": "DAL\\Models\\AfdelingDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:08.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:57:53.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Repository\\SagRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\SagRepository.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Repository\\SagRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\SagRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:16:37.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MedarbejderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Repository\\MedarbejderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\MedarbejderRepository.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Repository\\MedarbejderRepository.cs",
+              "RelativeToolTip": "DAL\\Repository\\MedarbejderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:15.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SagMapper.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Mapper\\SagMapper.cs",
+              "RelativeDocumentMoniker": "DAL\\Mapper\\SagMapper.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Mapper\\SagMapper.cs",
+              "RelativeToolTip": "DAL\\Mapper\\SagMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:59:09.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MedarbejderMapper.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Mapper\\MedarbejderMapper.cs",
+              "RelativeDocumentMoniker": "DAL\\Mapper\\MedarbejderMapper.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Mapper\\MedarbejderMapper.cs",
+              "RelativeToolTip": "DAL\\Mapper\\MedarbejderMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:05.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AfdelingMapper.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Mapper\\AfdelingMapper.cs",
+              "RelativeDocumentMoniker": "DAL\\Mapper\\AfdelingMapper.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Mapper\\AfdelingMapper.cs",
+              "RelativeToolTip": "DAL\\Mapper\\AfdelingMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:03.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Context\\Initializer.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\Initializer.cs",
+              "ToolTip": "C:\\Users\\firse\\Desktop\\Nyt\\DAL\\Context\\Initializer.cs",
+              "RelativeToolTip": "DAL\\Context\\Initializer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:57:55.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\firse\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs [Read Only]",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwHcAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:46:11.562Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AfdelingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\firse\\source\\repos\\Tidsregistrering\\DAL\\Repository\\AfdelingRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Tidsregistrering\\DAL\\Repository\\AfdelingRepository.cs",
+              "ToolTip": "C:\\Users\\firse\\source\\repos\\Tidsregistrering\\DAL\\Repository\\AfdelingRepository.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Tidsregistrering\\DAL\\Repository\\AfdelingRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:48:51.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

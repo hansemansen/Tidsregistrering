@@ -1,0 +1,143 @@
+﻿@model WEBApp.Models.TidsregistreringViewModel
+
+<h2>Tidsregistrering for @Model.MedarbejderNavn</h2>
+
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+@using (Html.BeginForm("Registrering", "Tidsregistrering", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.AfdelingId)
+    @Html.HiddenFor(m => m.MedarbejderId)
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ValgtSagId, "Sag:")
+        @Html.DropDownListFor(m => m.ValgtSagId, new SelectList(Model.Sager, "Id", "Navn"), "-- Vælg sag --", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.StartTid)
+        @Html.TextBoxFor(m => m.StartTid, new { @class = "form-control", type = "datetime-local" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.SlutTid)
+        @Html.TextBoxFor(m => m.SlutTid, new { @class = "form-control", type = "datetime-local" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Kommentar)
+        @Html.TextBoxFor(m => m.Kommentar, new { @class = "form-control", placeholder = "Valgfri kommentar" })
+    </div>
+
+    <button type="submit" class="btn btn-primary" name="noTranslate">Tilføj registrering</button>
+
+}
+
+<hr />
+
+<h3 style="margin-top: 40px;">Alle mine registreringer</h3>
+
+@* Vis indtastede registreringer *@
+@if (Model.Tidsregistreringer != null && Model.Tidsregistreringer.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Sag</th>
+                <th>Start</th>
+                <th>Slut</th>
+                <th>Timer</th>
+                <th>Kommentar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Tidsregistreringer)
+            {
+                var sag = Model.Sager.FirstOrDefault(s => s.Id == item.SagId);
+                <tr>
+                    <td>@(sag != null ? sag.Navn : "Ukendt")</td>
+                    <td>@item.StartTid.ToString("dd-MM-yyyy HH:mm")</td>
+                    <td>@item.SlutTid.ToString("dd-MM-yyyy HH:mm")</td>
+                    <td>@item.Timer.ToString("0.#")</td>
+                    <td>@item.Kommentar</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+    <p><strong>Samlet tid:</strong> @Model.TotalTid.TotalHours.ToString("0.##") timer</p>
+}
+else
+{
+    <p>Ingen registreringer endnu.</p>
+}
+
+<hr />
+
+<h3 style="margin-top: 40px;">Mine registreringer på denne sag</h3>
+
+<form id="statistikForm">
+    <input type="hidden" name="medarbejderId" value="@Model.MedarbejderId" />
+
+    <div class="form-group">
+        <label for="statistikSagId">Vælg sag til statistik:</label>
+        <select id="statistikSagId" name="sagId" class="form-control">
+            @foreach (var sag in Model.Sager)
+            {
+                <option value="@sag.Id">@sag.Navn</option>
+            }
+        </select>
+    </div>
+
+    <label for="dato">Vælg dato:</label>
+    <input type="date" name="dato" required class="form-control" id="statistikDato" />
+
+    <button type="button" class="btn btn-info" onclick="åbnStatistik()">Vis timestatistik</button>
+</form>
+
+
+<p>@Html.ActionLink("Tilbage til start", "Index", "Home", null, new { @class = "btn btn-secondary" })</p>
+
+
+@* CSS *@
+<style>
+    table td, table th {
+        padding: 6px 12px;
+        text-align: left;
+    }
+
+    table {
+        max-width: 700px;
+    }
+
+    form {
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 10px;
+    }
+
+    .btn {
+        margin-top: 10px;
+    }
+</style>
+
+<script>
+    function åbnStatistik() {
+        const form = document.getElementById("statistikForm");
+        const medarbejderId = form.elements["medarbejderId"].value;
+        const sagId = form.elements["sagId"].value;
+        const dato = form.elements["dato"].value;
+
+        if (!dato) {
+            alert("Vælg en dato først.");
+            return;
+        }
+
+        const url = `/Statistik/Index?medarbejderId=${medarbejderId}&sagId=${sagId}&dato=${dato}`;
+        window.open(url, "StatistikPopup", "width=500,height=500,resizable=yes,scrollbars=yes");
+    }
+</script>

@@ -1,0 +1,19 @@
+﻿@model WEBApp.Models.MedarbejderViewModel
+
+<h2>Vælg Medarbejder</h2>
+
+@using (Html.BeginForm("VælgMedarbejder", "Medarbejder", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.AfdelingId)
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ValgtMedarbejderId, "Medarbejder:")
+        @Html.DropDownListFor(m => m.ValgtMedarbejderId,
+            new SelectList(Model.Medarbejdere, "Id", "Navn"),
+            "-- Vælg medarbejder --",
+            new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Gå til registrering</button>
+   
+}

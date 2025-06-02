@@ -1,0 +1,16 @@
+﻿@model WEBApp.Models.AfdelingViewModel
+
+<h2>Vælg Afdeling</h2>
+
+@using (Html.BeginForm("VælgAfdeling", "Home", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.ValgtAfdelingId, "Afdeling:")
+        @Html.DropDownListFor(m => m.ValgtAfdelingId,
+            new SelectList(Model.Afdelinger, "Id", "Navn"),
+            "-- Vælg afdeling --",
+            new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Videre</button>
+}
